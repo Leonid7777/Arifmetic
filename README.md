@@ -1,1 +1,1 @@
-
+a lossless information compression algorithm that, when encoding, matches the text with a real number from the segment [0;1). This method, like the Huffman algorithm, is entropic, that is, the length of the code of a particular symbol depends on the frequency of occurrence of this symbol in the text. Arithmetic encoding shows higher compression results than Huffman's algorithm for data with uneven probability distributions of encoded characters.
