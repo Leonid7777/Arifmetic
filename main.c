@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
-#include <sys/fcntl.h>
+#include <sys/fcntl.h> 
 
 void
 new_write(int out, long long *index, unsigned char *val){
